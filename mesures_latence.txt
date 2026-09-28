@@ -1,0 +1,14 @@
+requete  1 :     3.8 ms (serveur : 0.0 ms)
+requete  2 :     1.8 ms (serveur : 0.0 ms)
+requete  3 :     1.4 ms (serveur : 0.0 ms)
+requete  4 :     1.2 ms (serveur : 0.0 ms)
+requete  5 :     1.3 ms (serveur : 0.0 ms)
+requete  6 :     1.6 ms (serveur : 0.0 ms)
+requete  7 :     1.2 ms (serveur : 0.0 ms)
+requete  8 :     1.3 ms (serveur : 0.0 ms)
+requete  9 :     1.3 ms (serveur : 0.0 ms)
+requete 10 :     1.4 ms (serveur : 0.0 ms)
+min     : 1.2 ms
+mediane : 1.4 ms
+max     : 3.8 ms
+moyenne : 1.6 ms
